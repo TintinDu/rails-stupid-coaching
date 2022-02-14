@@ -1,0 +1,29 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  background: rgb(241, 236, 236);
+}
+
+.container {
+  color: black;
+}
+
+.card {
+  border-left: solid 4px grey;
+  padding-left: 10px;
+}
+
+#coach_answer {
+  background-color: rgb(233, 233, 182);
+}
+
+.answer {
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: lightblue;
+}
